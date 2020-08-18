@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Twitter Bot</title>
+      <link>/blog/twitter-bot/</link>
+      <pubDate>Fri, 24 Jul 2020 15:46:00 +0000</pubDate>
+      
+      <guid>/blog/twitter-bot/</guid>
+      <description>Over the past week, I have set out with the goal to make a Twitter &amp;ldquo;bot&amp;rdquo; that can create orginal (hopefully comedic) joke tweets.
+The first step in this process was to generate a corpus of tweets to train my model off of. I chose six of the comedy twitter accounts I personally follow, as well as my own and my friend&amp;rsquo;s twitter, and downloaded around 10,000 tweets from each (my friend and I only have ~200 tweets each so I just downloaded all of ours) into their own individual csv files.</description>
+    </item>
+    
+    <item>
       <title>First Post</title>
       <link>/blog/my-first-post/</link>
       <pubDate>Mon, 11 May 2020 14:33:01 -0400</pubDate>
@@ -39,16 +49,6 @@
       
       <guid>/about_me/</guid>
       <description>I am an undergraduate Computer Science major at the University of Notre Dame, graduating in 2022. When I am not in class or doing homework you can most likely find me at water polo practice, reading, or writing. I am a very dedicated, hardworking individual and am always eager to learn new things.</description>
-    </item>
-    
-    <item>
-      <title>Twitter Bot</title>
-      <link>/blog/twitter-bot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/twitter-bot/</guid>
-      <description>Over the past week, I have set out with the goal to make a Twitter &amp;ldquo;bot&amp;rdquo; that can create orginal (hopefully comedic) joke tweets.
-The first step in this process was to generate a corpus of tweets to train my model off of. I chose six of the comedy twitter accounts I personally follow, as well as my own and my friend&amp;rsquo;s twitter, and downloaded around 10,000 tweets from each (my friend and I only have ~200 tweets each so I just downloaded all of ours) into their own individual csv files.</description>
     </item>
     
   </channel>
